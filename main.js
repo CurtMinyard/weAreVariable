@@ -1,7 +1,21 @@
 /******************
  * YOUR CODE BELOW *
  ******************/
+let myFirstName = "Curt";
+console.log(myFirstName);
+let myLastName = "Minyard";
+let myFavoriteCeleb = "Chris Hemsworth";
 
+let mySentence = myFirstName + " " + myLastName + " really likes " + myFavoriteCeleb + ".";
+
+let myLuckyNum = 13;
+let myAge = 54;
+let myHeight = 66; // in cm or inches
+let myFavoriteYear = 1970;
+
+let mySum = 5 + 2317 + 36;
+let myProduct = (232 * 43) / 2 + 4;
+let myHeightAndAge = myAge + myHeight;
 
 /*********************************************************************************************************************
 
